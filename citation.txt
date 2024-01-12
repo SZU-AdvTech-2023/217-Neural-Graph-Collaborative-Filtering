@@ -1,0 +1,7 @@
+@inproceedings{REPO217,
+    author = "Wang, Xiang and He, Xiangnan and Wang, Meng and Feng, Fuli and Chua, Tat-Seng",
+    booktitle = "Proceedings of the 42nd international ACM SIGIR conference on Research and development in Information Retrieval",
+    pages = "165--174",
+    title = "{Neural Graph Collaborative Filtering}",
+    year = "2019"
+}
